@@ -23,9 +23,8 @@ I am adept in javascript full stack technologies and mobile Swift ios developmen
 
 ## What am I up to these days?
 
-- 🧑‍💻  I’m currently working on the [My Places](https://github.com/alban44980/places-client) project :earth_americas:
-- 📚  I’m currently mastering Swift
-- 💬  Ask me about anything!
+- 🧑‍💻  I’m currently working on the Perato
+- 📚  I’m currently mastering Swift and SwiftUI
 
 
 ## Do you want to know more?
