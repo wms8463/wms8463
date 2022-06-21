@@ -1,9 +1,8 @@
 ## Welcome to my GitHub profile 🎟
 
-👋 Hello! My name is Will. I am Full Stack Engineer based in San Jose, California. 
+👋 Hello! My name is Will. I am SwiftUI developer based in Austin, Texas. 
 
-I am adept in javascript full stack technologies and mobile Swift ios development. My passion is designing engaging and simple user experiences that help make peoples lives easier and more fulfilled. I love travel, learning, and meeting new people, discussing ideas, and broadening my perspective and understanding of technology.  
-
+I am currently building a SwiftUI app that helps people capture meaningful moments in their lives.
 ---
 
 ## 🧰 Toolbox
