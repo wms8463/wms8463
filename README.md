@@ -7,14 +7,9 @@ I am currently building a SwiftUI app that helps people capture meaningful momen
 
 ## 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/swift-15.svg" alt="Swift Logo" width="50" height="50" display="inline-block" margin="30"/> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50" display="inline-block" margin="30"/> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50" display="inline-block" margin="30"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/swift-15.svg" alt="Swift Logo" width="50" height="50" display="inline-block" margin="30"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50" display="inline-block" margin="30"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="React Native Logo" width="50" height="50" display="inline-block" margin="30"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux Logo" width="50" height="50" display="inline-block" margin="30"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Typescript Logo" width="50" height="50" display="inline-block" margin="30"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB Logo" width="50" height="50" display="inline-block" margin="30"/> 
-<img src="https://seeklogo.com/images/S/sequelize-logo-9A5075DB9F-seeklogo.com.png" alt="Sequelize Logo" width="50" height="50" display="inline-block" margin="30"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/graphql.svg" alt="GraphQL Logo" width="50" height="50" display="inline-block" margin="30"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="Postgres Logo" width="50" height="50" display="inline-block" margin="30"/> 
 
 ---
 
