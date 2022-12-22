@@ -12,7 +12,3 @@
 
 👉 [LinkedIn](https://www.linkedin.com/in/williamsukonik/)
 
-
-## It's always nice to get some stats 📊
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wms8463&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
